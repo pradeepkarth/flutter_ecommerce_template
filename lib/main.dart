@@ -1,4 +1,5 @@
 
+import 'package:ecommerce_int2/page/home_page.dart';
 import 'package:ecommerce_int2/screens/splash_page.dart';
 import 'package:flutter/material.dart';
 
@@ -19,7 +20,8 @@ class MyApp extends StatelessWidget {
         primarySwatch: Colors.blue,
         fontFamily: "Montserrat",
       ),
-      home: SplashScreen(),
+      // home: SplashScreen(),
+      home: HomePage(),
     );
   }
 }

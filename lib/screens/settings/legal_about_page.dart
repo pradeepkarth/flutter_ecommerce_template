@@ -18,7 +18,7 @@ class _LegalAboutPageState extends State<LegalAboutPage> {
         iconTheme: IconThemeData(
             color: Colors.black,
           ),
-        brightness: Brightness.light,
+        // brightness: Brightness.light,
         backgroundColor: Colors.transparent,
         title: Text(
           'Settings',

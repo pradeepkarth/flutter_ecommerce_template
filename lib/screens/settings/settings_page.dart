@@ -19,7 +19,7 @@ class SettingsPage extends StatelessWidget {
           iconTheme: IconThemeData(
             color: Colors.black,
           ),
-          brightness: Brightness.light,
+          // brightness: Brightness.light,
           backgroundColor: Colors.transparent,
           title: Text(
             'Settings',
